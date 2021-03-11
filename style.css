@@ -75,6 +75,20 @@
 .container .nav .div{
         font-size: 32px;
 }
+
+.copy{
+        padding: 6px 40px 6px 40px;
+        background: #D6D6D6;
+        font-family: "Lucida Sans Unicode" ;
+        color: #000000;
+        font-size: 21px;
+        text-decoration: right;
+}
+
+.copy .link {
+        text-decoration: none;
+        color: #000;
+}
 /******* COMMON FOR ALL PAGES ***********/
 /******* BUTTONS ************************/
 #button{

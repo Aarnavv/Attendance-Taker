@@ -1,6 +1,6 @@
 # Attendance Taker v2.0
 
-This ia a successor of **Attendace Taker v1.0**
+This ia a successor of **Attendace Taker v1.0.**
 This is a _web-based_ Attendance Taker 
 in contrast to its predecessor which was based on _javax_.
 _______________________________________

@@ -1,10 +1,10 @@
-# Attendance Taker v2.0
+# Attendance Taker
 
 This ia a successor of **Attendace Taker v1.0.**
 This is a _web-based_ Attendance Taker 
 in contrast to its predecessor which was based on _javax_.
 
-You can access it at [Attendance Taker v2.0](http://attendance-taker.000webhostapp.com?/). 
+You can access it at [Attendance Taker](https://attendance-taker.github.io/). 
 Use CTRL/CMD + Click to open the link in a new tab. 
 _______________________________________
 

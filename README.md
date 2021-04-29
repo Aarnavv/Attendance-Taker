@@ -4,7 +4,7 @@ This ia a successor of **Attendace Taker v1.0.**
 This is a _web-based_ Attendance Taker 
 in contrast to its predecessor which was based on _javax_.
 
-You can access it at [Attendance Taker](https://attendance-taker.github.io/). 
+You can access it at [Attendance Taker](https://aarnavv.github.io/Attendance-Taker/). 
 Use CTRL/CMD + Click to open the link in a new tab. 
 _______________________________________
 

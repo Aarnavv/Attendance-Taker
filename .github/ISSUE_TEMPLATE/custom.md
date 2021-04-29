@@ -1,6 +1,6 @@
 ---
 name: Custom Issue
-about: Describe this issue here.
+about: Describe the issue here if it is not a bug.
 title: ''
 labels: ''
 assignees: ''

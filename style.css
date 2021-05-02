@@ -192,6 +192,56 @@
 
 
 
+/* faq.html */
+.details{
+    background-color:rgb(205, 205, 205);
+    border-radius: 7px;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+
+.how-to-color{
+    background: #e6bebe;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+.how-to-div {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.how-to{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+    border-radius: 7px; 
+}
+.how-to .use{
+    text-decoration: none;
+    color: #fff;
+    font-family: "Kanit";
+    line-height: 1em;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    text-shadow: 0 1px 0 #dba1a1, 0 2px 0 #d89999, 0 3px 0 #d59292, 0 4px 0 #d28a8a, 0 5px 0 #cf8383, 0 6px 0 #cd7c7c, 0 7px 0 #ca7474, 0 8px 0 #c76d6d, 0 0 5px rgba(230, 139, 139, 0.05), 0 -1px 3px rgba(230, 139, 139, 0.2), 0 9px 9px rgba(230, 139, 139, 0.3), 0 12px 12px rgba(230, 139, 139, 0.3), 0 15px 15px rgba(230, 139, 139, 0.3);
+}
+
+.explanation-div{
+    width: 100%;
+}
+
+.explanation{
+    font-family: cursive;
+}
+
+
+
 
 /* Controlling font size depending on screen size */
 @media screen and (max-width: 400px){
@@ -209,6 +259,12 @@
     }
     .button .click{
         font-size: 5vw; 
+    }
+    .explanation{
+        font-size: 4vw;
+    }
+    .use{
+        font-size: 15vw;
     }
 }
 
@@ -228,7 +284,14 @@
     .button .click{
         font-size: 4vw; 
     }
+    .explanation{
+        font-size: 4vw;
+    }
+    .use{
+        font-size: 10vw;
+    }
 }
+
 
 @media screen and (min-width:651px){
     .mine-title .heading{
@@ -246,7 +309,14 @@
     .button .click{
         font-size: 2.5vw; 
     }
+    .explanation{
+        font-size: 2.5vw;
+    }
+    .use{
+        font-size: 4vw;
+    }
 }
+
 
 @media screen and (min-width:1351px){
     .mine-title .heading{
@@ -263,5 +333,11 @@
     }
     .button .click{
         font-size: 1.5vw; 
+    }
+    .explanation{
+        font-size: 1.75vw;
+    }
+    .use{
+        font-size: 4vw;
     }
 }

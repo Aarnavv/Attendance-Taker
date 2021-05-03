@@ -1,3 +1,4 @@
+// Using jQuery
 function check(btn) {
     btn.style.backgroundColor = "green";
     btn.style.color = "black";

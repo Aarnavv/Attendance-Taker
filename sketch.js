@@ -6,7 +6,7 @@ function check(btn) {
     var touchtime = 0;
     var delay = 500;
     var action = null;
-    $(".click").on("click", function () {
+    $(btn).on("click", function () {
         // Double Click
         if ((new Date().getTime() - touchtime) < delay) {
             clearTimeout(action)
